@@ -12,6 +12,7 @@
   </tr>
 </table>
 
+<!-- Estoy muy contenta de empezar con este prep course! -->
 # JavaScript I
 
 #### Introducción a JavaScript
